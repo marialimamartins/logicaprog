@@ -1,7 +1,7 @@
 // exercício 1
 
 
-// com while do
+// com do while 
 
 // let contador = 1;
 // do {
@@ -33,7 +33,7 @@
 //     console.log(i)
 // }
 
-// usando while do
+// usando do while 
 
 // let contador = 100;
 // do{
@@ -52,7 +52,7 @@
 
 // exercicio 3
 
-// usando while do
+// usando do while
 
 // let num = 15;
 // do{
@@ -96,7 +96,7 @@
 // }
 // console.log(soma);
 
-//usando while do
+//usando do while 
 
 // let soma = 0;
 // let num = 1;
@@ -173,6 +173,4 @@
 //         numero ++
 //     }
 // }
-
-
 
