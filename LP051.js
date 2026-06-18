@@ -137,7 +137,7 @@
 //exercicio 6
 
 //usando while
-// let n = 60;
+// let n = 2;
 // let produto = 0;
 
 // if(n >= 50){
@@ -148,5 +148,31 @@
 //     produto  += (n * 3)
 // }
 // }
+
+//exercicio 7
+
+// let divisor = 1
+// let numero = 4
+// while(divisor < 200){
+//     if (divisor % numero == 0){
+//         console.log(divisor)
+//         divisor ++
+//     }else{
+//         divisor++
+//     }
+// }
+
+//exercicio 8
+
+// let numero = 0;
+// while(numero<=20){
+//     if(numero%2 != 0){
+//         console.log(numero)
+//         numero ++
+//     }else{
+//         numero ++
+//     }
+// }
+
 
 
