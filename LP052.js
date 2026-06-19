@@ -69,3 +69,21 @@
 // }while(numero<= 20)
 
 
+//exercicio 6
+
+// let numero = 2
+// do{
+//     let quad = numero ** 2;
+//     console.log(quad)
+//     numero ++;
+// }while(numero<50)
+
+//exercício 7
+
+// let pot = 0
+// do{
+//     let potencia = 2**pot
+//     console.log(potencia)
+//     pot++
+// }while(pot <= 10)
+
