@@ -89,31 +89,11 @@
 
 
 
-//tentando usar matriz(ERRADO)
-
-// let mat = new array(10);
-// for(let i = 0; i < mat.length; i++){
-//     mat[i] = new array(10);
-//         for (let j = 0; j < mat[i].length; j++) {
-//             mat[i][j] = i + j; 
-// }
-// }
-// console.log(mat)
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-//tentando usando Listas
+//testando usando Listas
 
 // let frutas = ["laranja","banana","maçã"];
 // console.log(frutas[2])

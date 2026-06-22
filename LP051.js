@@ -164,13 +164,24 @@
 
 //exercicio 8
 
-let numero = 0;
-while(numero<=20){
-    if(numero%2 != 0){
-        console.log(numero)
-        numero ++
-    }else{
-        numero ++
-    }
-}
+// let numero = 0;
+// while(numero<=20){
+//     if(numero%2 != 0){
+//         console.log(numero)
+//         numero ++
+//     }else{
+//         numero ++
+//     }
+// }
+
+///exercicio 9
+
+// let num = 0
+// let soma = 0
+
+// while(num<=500){
+//         soma += num
+//         num = num + 2  
+// }
+// console.log(soma)
 
